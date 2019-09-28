@@ -56,7 +56,7 @@ ROOT_URLCONF = 'leadmanager.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [r'/Users/calvinhan/desktop/projects/calorietracker/backend/leadmanager/leads/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
