@@ -1,4 +1,4 @@
-macro_code = {
+macro_code_dict = {
 	"301": {
 		"macro": "Calcium, Ca", 
 		"unit": "mg"
